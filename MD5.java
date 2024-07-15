@@ -1,7 +1,7 @@
 public class MD5Encryption {
     public static String encrypt(String input) {
         try {
-	//我的第一次注解修改
+	//我的第二次注解修改
             // 创建一个 MD5 消息摘要对象
             MessageDigest md = MessageDigest.getInstance("MD5");
             // 将输入字符串转换为字节数组
